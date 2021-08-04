@@ -1,7 +1,6 @@
 # LIVRO DE RECEITAS
 
-Olá!
-Bem vindo ao meu livro de receitas.
+Olá! Bem vindo ao meu livro de receitas.
 
  - Macarrão
-
+ - Pavê
